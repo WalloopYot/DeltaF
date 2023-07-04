@@ -1,0 +1,20 @@
+- Repository Name: AstronomicalStudies
+  - README.md
+  - data/
+    - raw/
+      - data_file1.fits
+      - data_file2.fits
+    - processed/
+  - notebooks/
+    - data_exploration.ipynb
+    - data_preprocessing.ipynb
+    - analysis.ipynb
+  - scripts/
+    - loop_processing.py
+    - analysis_data.py
+  - results/
+    - analysis_results.txt
+    - plots/
+      - plot1.png
+      - plot2.png
+  - LICENSE
